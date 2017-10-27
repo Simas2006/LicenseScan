@@ -1,0 +1,20 @@
+body {
+	font-family: "Futura";
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+td {
+	padding: 7px;
+  border: #000 1px solid;
+}
+tr:nth-child(odd) {
+	background-color: #06f;
+}
+tr:nth-child(even) {
+	background-color: #0ff;
+}
+#error {
+	color: #f00;
+}

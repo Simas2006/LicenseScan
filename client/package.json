@@ -1,0 +1,16 @@
+{
+  "name": "licensescan-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Simas Juknelis",
+  "license": "MIT",
+  "dependencies": {
+    "node-openalpr": "^1.1.1",
+    "node-webcam": "^0.4.3",
+    "request": "^2.83.0"
+  }
+}
